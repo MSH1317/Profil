@@ -1,0 +1,79 @@
+.salam{
+color: GreenYellow;
+}
+.B1 {
+	color: OrangeRed;
+}
+.topik {
+	color: black;
+}
+h2{
+color: red;
+}
+body{
+background:black;
+color: white;
+}
+.link{
+	color: blue;
+font-size: 16pt;
+}
+.link:hover{
+color: yellow;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+}
+li a{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #111111;
+}
+.biodata {
+	color: #8A2BE2;
+}
+.subtopik {
+	background-color: DarkGray;
+	margin: 0px;
+	padding: 5px
+}
+.logo {
+padding: 10px;
+width: 101px;
+margin: 10px;
+background: DarkGray;
+}
+.foto {
+	width: 300px;
+	height: 300px;
+	margin: 20px;
+	padding: 4px;
+}
+.gambar {
+	background-color: #333333;
+	width: 350px;
+	height: 350px;
+}
+.container {
+	width: 180px;
+}
+.pesan {
+	width: 100px;
+	height: 100px;
+}
+.processor {
+	padding: 10px;
+	width: 277px;
+	background: blue;
